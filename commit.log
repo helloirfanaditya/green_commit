@@ -10,3 +10,19 @@ To github.com:helloirfanaditya/green_commit.git
  1 file changed, 5 insertions(+)
 To github.com:helloirfanaditya/green_commit.git
    b675e4f..dbb39e4  master -> master
+/opt/green-commit-bot/commit.sh: line 17: //: Is a directory
+sed: -e expression #1, char 92: unknown command: `U'
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   commit.log
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.commit.sh.swp
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
